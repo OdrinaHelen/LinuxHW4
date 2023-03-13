@@ -1,0 +1,10 @@
+   0 touch myfirstbashscript.sh
+   1 chmod 744 myfirstbashscript.sh
+   2 ls -l
+   3 export USER=helen
+   4 nano myfirstbashscript.sh
+   5 ./myfirstbashscript.sh
+   6 ps -ef | wc -l
+   7 nano myfirstbashscript.sh
+   8 ./myfirstbashscript.sh
+   9 history >> historyHW06032023.txt
